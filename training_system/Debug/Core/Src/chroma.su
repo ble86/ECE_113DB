@@ -1,0 +1,7 @@
+chroma.c:24:13:window	24	static
+chroma.c:30:13:convert_to_complex	24	static
+chroma.c:37:13:get_magnitude	32	static
+chroma.c:46:13:get_psd	8240	static
+chroma.c:70:13:chroma_analysis	40	static
+chroma.c:89:6:get_chroma	28696	static
+chroma.c:99:6:normalize_chroma	48	static

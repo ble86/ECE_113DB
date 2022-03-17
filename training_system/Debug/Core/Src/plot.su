@@ -1,0 +1,2 @@
+plot.c:16:6:plot	32	static
+plot.c:31:5:get_peak	32	static
